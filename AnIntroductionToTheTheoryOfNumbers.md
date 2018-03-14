@@ -16,3 +16,5 @@
 * [There are infinitely many primes](https://theoremoftheweek.wordpress.com/2009/11/01/theorem-12-there-are-infinitely-many-primes/)
 * [GCD to LCM of multiple numbers](https://math.stackexchange.com/questions/319297/gcd-to-lcm-of-multiple-numbers)
 * [Proof of Product of GCD and LCM](https://proofwiki.org/wiki/Product_of_GCD_and_LCM)
+* [Dirichlet's theorem on arithmetic progressions](https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions)
+* [Factor Theorem](https://artofproblemsolving.com/wiki/index.php?title=Factor_Theorem)

@@ -19,3 +19,4 @@
 * [Dirichlet's theorem on arithmetic progressions](https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions)
 * [Factor Theorem](https://artofproblemsolving.com/wiki/index.php?title=Factor_Theorem)
 * [If 2n+1 is prime, why must n be a power of 2?](https://math.stackexchange.com/questions/140804/if-2n1-is-prime-why-must-n-be-a-power-of-2)
+* [Involution (mathematics)](https://en.wikipedia.org/wiki/Involution_(mathematics))

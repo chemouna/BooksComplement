@@ -14,4 +14,5 @@
 * [Formula for primes](https://en.wikipedia.org/wiki/Formula_for_primes)
 * [Dirichlet’s theorem](https://theoremoftheweek.wordpress.com/2010/02/16/theorem-17-dirichlets-theorem/)
 * [There are infinitely many primes](https://theoremoftheweek.wordpress.com/2009/11/01/theorem-12-there-are-infinitely-many-primes/)
-
+* [GCD to LCM of multiple numbers](https://math.stackexchange.com/questions/319297/gcd-to-lcm-of-multiple-numbers)
+* [Proof of Product of GCD and LCM](https://proofwiki.org/wiki/Product_of_GCD_and_LCM)

@@ -20,3 +20,4 @@
 * [Factor Theorem](https://artofproblemsolving.com/wiki/index.php?title=Factor_Theorem)
 * [If 2n+1 is prime, why must n be a power of 2?](https://math.stackexchange.com/questions/140804/if-2n1-is-prime-why-must-n-be-a-power-of-2)
 * [Involution (mathematics)](https://en.wikipedia.org/wiki/Involution_(mathematics))
+* [Sum of Reciprocals of Primes is Divergent Proof](https://proofwiki.org/wiki/Sum_of_Reciprocals_of_Primes_is_Divergent)

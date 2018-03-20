@@ -16,3 +16,5 @@
 * [Well-ordering principle](https://en.wikipedia.org/wiki/Well-ordering_principle)
 * [Prove the principle of mathematical induction with the well ordering principle](https://math.stackexchange.com/questions/294178/prove-the-principle-of-mathematical-induction-with-the-well-ordering-principle)
 * [Proof of the Equivalence of Strong & Regular Induction](http://www.oxfordmathcenter.com/drupal7/node/485)
+* [If a is rational and b is irrational, is ab necessarily irrational?](https://math.stackexchange.com/questions/2199279/if-a-is-rational-and-b-is-irrational-is-ab-necessarily-irrational)
+* [Prove rational sum and product of two irrational numbers](https://math.stackexchange.com/questions/1465673/prove-rational-sum-and-product-of-two-irrational-numbers)

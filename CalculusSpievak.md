@@ -21,3 +21,5 @@
 * [Cube Root of 2 is Irrational](https://proofwiki.org/wiki/Cube_Root_of_2_is_Irrational)
 * [Prove the cuberoot of 2 is irrational](https://math.stackexchange.com/questions/1145283/prove-the-cuberoot-of-2-is-irrational)
 * [Proofs of irrationality](http://platonicrealms.com/encyclopedia/proofs-of-irrationality)
+* [The Square Root of 2 is Irrational (Geometric Proof)](https://jeremykun.com/2011/08/14/the-square-root-of-2-is-irrational-geometric-proof/)
+*[Calculus Spivak Chapter 2 problem 16(c)](https://math.stackexchange.com/questions/2308909/calculus-spivak-chapter-2-problem-16c)

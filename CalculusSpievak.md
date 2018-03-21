@@ -18,3 +18,6 @@
 * [Proof of the Equivalence of Strong & Regular Induction](http://www.oxfordmathcenter.com/drupal7/node/485)
 * [If a is rational and b is irrational, is ab necessarily irrational?](https://math.stackexchange.com/questions/2199279/if-a-is-rational-and-b-is-irrational-is-ab-necessarily-irrational)
 * [Prove rational sum and product of two irrational numbers](https://math.stackexchange.com/questions/1465673/prove-rational-sum-and-product-of-two-irrational-numbers)
+* [Cube Root of 2 is Irrational](https://proofwiki.org/wiki/Cube_Root_of_2_is_Irrational)
+* [Prove the cuberoot of 2 is irrational](https://math.stackexchange.com/questions/1145283/prove-the-cuberoot-of-2-is-irrational)
+* [Proofs of irrationality](http://platonicrealms.com/encyclopedia/proofs-of-irrationality)

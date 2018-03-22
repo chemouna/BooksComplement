@@ -14,3 +14,7 @@
 * [Binet's Fibonacci Number Formula](http://mathworld.wolfram.com/BinetsFibonacciNumberFormula.html)
 * [SICP Exercise 1.14: Counting change](http://www.billthelizard.com/2009/12/sicp-exercise-114-counting-change.html)
 * [SICP exercise 1.14](http://wiki.drewhess.com/wiki/SICP_exercise_1.14)
+* [Sine approximation for small angles](https://www.johndcook.com/blog/2010/07/27/sine-approximation-for-small-x/)
+* [SICP Exercise 1.15: Calculating sines](http://www.billthelizard.com/2009/12/sicp-exercise-115-calculating-sines.html?showComment=1515603293151#c6807557608975849274)
+* [SICP Exercise 1.15](http://www.ysagade.nl/2015/04/22/sicp-sine/)
+* [SICP Exercise 1.15: The Sines of the Fathers](http://jots-jottings.blogspot.co.uk/2011/09/sicp-115-sines-of-fathers.html)

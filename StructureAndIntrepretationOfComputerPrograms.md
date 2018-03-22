@@ -2,6 +2,8 @@
 # Structure And Interpretation Of Computer Programs 
 
 ## Links
+
+### Chapter 1
 * [Tree accumulation](https://en.wikipedia.org/wiki/Tree_accumulation)
 * [Evaluation strategy](https://en.wikipedia.org/wiki/Evaluation_strategy)
 * [MIT Recitation 23: Applicative vs Normal Order evaluation](http://people.csail.mit.edu/jastr/6001/spring06/r23.pdf)
@@ -9,3 +11,6 @@
 * [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method)
 * [SICP Exercises 1.9 and 1.10](http://www.billthelizard.com/2009/11/sicp-exercises-19-and-110.html)
 * [SICP Exercise 1.13: Fibonacci and the Golden ratio](http://www.billthelizard.com/2009/12/sicp-exercise-113-fibonacci-and-golden.html)
+* [Binet's Fibonacci Number Formula](http://mathworld.wolfram.com/BinetsFibonacciNumberFormula.html)
+* [SICP Exercise 1.14: Counting change](http://www.billthelizard.com/2009/12/sicp-exercise-114-counting-change.html)
+* [SICP exercise 1.14](http://wiki.drewhess.com/wiki/SICP_exercise_1.14)

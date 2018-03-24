@@ -18,3 +18,6 @@
 * [SICP Exercise 1.15: Calculating sines](http://www.billthelizard.com/2009/12/sicp-exercise-115-calculating-sines.html?showComment=1515603293151#c6807557608975849274)
 * [SICP Exercise 1.15](http://www.ysagade.nl/2015/04/22/sicp-sine/)
 * [SICP Exercise 1.15: The Sines of the Fathers](http://jots-jottings.blogspot.co.uk/2011/09/sicp-115-sines-of-fathers.html)
+* [Lamé's Theorem - the Very First Application of Fibonacci Numbers](https://www.cut-the-knot.org/blue/LamesTheorem.shtml)
+* [Is Applicative-order and Normal-order evaluation model's definition contradictory as per sicp text book?](https://cs.stackexchange.com/questions/54000/is-applicative-order-and-normal-order-evaluation-models-definition-contradictor/54004)
+* [Difference between normal-order and applicative-order evaluation](https://cs.stackexchange.com/questions/40758/difference-between-normal-order-and-applicative-order-evaluation?rq=1)

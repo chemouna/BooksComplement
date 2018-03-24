@@ -21,3 +21,6 @@
 * [Lamé's Theorem - the Very First Application of Fibonacci Numbers](https://www.cut-the-knot.org/blue/LamesTheorem.shtml)
 * [Is Applicative-order and Normal-order evaluation model's definition contradictory as per sicp text book?](https://cs.stackexchange.com/questions/54000/is-applicative-order-and-normal-order-evaluation-models-definition-contradictor/54004)
 * [Difference between normal-order and applicative-order evaluation](https://cs.stackexchange.com/questions/40758/difference-between-normal-order-and-applicative-order-evaluation?rq=1)
+* [SICP Exercise 1.20: GCD](http://www.billthelizard.com/2010/01/sicp-exercise-120-gcd.html)
+* [Primality test](https://en.wikipedia.org/wiki/Primality_test)
+* [Modular exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)

@@ -24,3 +24,4 @@
 * [SICP Exercise 1.20: GCD](http://www.billthelizard.com/2010/01/sicp-exercise-120-gcd.html)
 * [Primality test](https://en.wikipedia.org/wiki/Primality_test)
 * [Modular exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
+* [SICP Exercise 1.25: A closer look at expmod](http://www.billthelizard.com/2010/02/sicp-exercise-125-closer-look-at-expmod.html)

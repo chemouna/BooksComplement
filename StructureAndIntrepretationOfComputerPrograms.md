@@ -25,3 +25,7 @@
 * [Primality test](https://en.wikipedia.org/wiki/Primality_test)
 * [Modular exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 * [SICP Exercise 1.25: A closer look at expmod](http://www.billthelizard.com/2010/02/sicp-exercise-125-closer-look-at-expmod.html)
+* [SICP Exercise 1.26: A Broken expmod](http://jots-jottings.blogspot.co.uk/2011/09/sicp-126.html)
+* [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
+* [Euclid's lemma](https://en.wikipedia.org/wiki/Euclid%27s_lemma)
+* [SICP Exercise 1.34: Procedures as Arguments](http://www.billthelizard.com/2010/05/sicp-exercise-134-procedures-as.html)

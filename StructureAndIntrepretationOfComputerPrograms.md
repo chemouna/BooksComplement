@@ -29,3 +29,6 @@
 * [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
 * [Euclid's lemma](https://en.wikipedia.org/wiki/Euclid%27s_lemma)
 * [SICP Exercise 1.34: Procedures as Arguments](http://www.billthelizard.com/2010/05/sicp-exercise-134-procedures-as.html)
+* [e Continued Fraction](http://mathworld.wolfram.com/eContinuedFraction.html)
+* [Why does average damping magically speed up the convergence of fixed-point calculators?](https://stackoverflow.com/questions/3860929/why-does-average-damping-magically-speed-up-the-convergence-of-fixed-point-calcu)
+* [SICP Exercise 1.45: Damp Roots](http://jots-jottings.blogspot.co.uk/2011/09/sicp-exercise-145-damp-roots.html)

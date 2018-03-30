@@ -32,3 +32,6 @@
 * [e Continued Fraction](http://mathworld.wolfram.com/eContinuedFraction.html)
 * [Why does average damping magically speed up the convergence of fixed-point calculators?](https://stackoverflow.com/questions/3860929/why-does-average-damping-magically-speed-up-the-convergence-of-fixed-point-calcu)
 * [SICP Exercise 1.45: Damp Roots](http://jots-jottings.blogspot.co.uk/2011/09/sicp-exercise-145-damp-roots.html)
+* [sicp-ex-2.14-2.15-2.16](http://community.schemewiki.org/?sicp-ex-2.14-2.15-2.16)
+* [SICP Exercise 2.15](https://voom4000.wordpress.com/2015/08/13/sicp-exercise-2-15/)
+* [SICP Exercise 2.16: IEEE Interval Standard](http://jots-jottings.blogspot.co.uk/2011/09/sicp-exercise-216-ieee-interval.html)

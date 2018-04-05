@@ -32,6 +32,12 @@
 * [e Continued Fraction](http://mathworld.wolfram.com/eContinuedFraction.html)
 * [Why does average damping magically speed up the convergence of fixed-point calculators?](https://stackoverflow.com/questions/3860929/why-does-average-damping-magically-speed-up-the-convergence-of-fixed-point-calcu)
 * [SICP Exercise 1.45: Damp Roots](http://jots-jottings.blogspot.co.uk/2011/09/sicp-exercise-145-damp-roots.html)
+* [Programming Praxis: Sum of squares of two largest of three values](https://programmingpraxis.com/2012/03/16/sum-of-squares-of-two-largest-of-three-values/)
+
+### Chapter 2
 * [sicp-ex-2.14-2.15-2.16](http://community.schemewiki.org/?sicp-ex-2.14-2.15-2.16)
 * [SICP Exercise 2.15](https://voom4000.wordpress.com/2015/08/13/sicp-exercise-2-15/)
 * [SICP Exercise 2.16: IEEE Interval Standard](http://jots-jottings.blogspot.co.uk/2011/09/sicp-exercise-216-ieee-interval.html)
+* [What is the significance of flatmap in SICP ?](https://stackoverflow.com/questions/38993348/what-is-the-significance-of-flatmap-in-sicp)
+* [SICP Exercise 2.71: Huffman With Power-of-2 Frequencies](http://jots-jottings.blogspot.co.uk/2011/12/sicp-exercise-271-huffman-with-power-of.html)
+* [SICP Exercise 2.72: Efficiency of Huffman Encoding](http://jots-jottings.blogspot.co.uk/2011/12/sicp-exercise-272-efficiency-of-huffman.html)

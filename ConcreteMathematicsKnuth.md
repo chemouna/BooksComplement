@@ -15,3 +15,5 @@
 * [Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series)
 * [Figurate number](https://en.wikipedia.org/wiki/Figurate_number)
 * [Cesàro summation](https://en.wikipedia.org/wiki/Ces%C3%A0ro_summation)
+* [Falling and rising factorials](https://en.wikipedia.org/wiki/Falling_and_rising_factorials)
+* [Finite Calculus:A Tutorial for Solving Nasty Sums](https://www.cs.purdue.edu/homes/dgleich/publications/Gleich%202005%20-%20finite%20calculus.pdf)

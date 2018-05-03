@@ -17,3 +17,7 @@
 * [Cesàro summation](https://en.wikipedia.org/wiki/Ces%C3%A0ro_summation)
 * [Falling and rising factorials](https://en.wikipedia.org/wiki/Falling_and_rising_factorials)
 * [Finite Calculus:A Tutorial for Solving Nasty Sums](https://www.cs.purdue.edu/homes/dgleich/publications/Gleich%202005%20-%20finite%20calculus.pdf)
+* [Notes on summations and related topics](http://www.cs.yale.edu/homes/aspnes/pinewiki/attachments/SummationNotation/summation-notation.pdf)
+* [Finding Big O of the Harmonic Series](https://stackoverflow.com/questions/25905118/finding-big-o-of-the-harmonic-series)
+* [Summation with floor in upper bound](https://cs.stackexchange.com/questions/68595/summation-with-floor-in-upper-bound)
+* [Summation By Parts](https://brilliant.org/wiki/summation-by-parts/)

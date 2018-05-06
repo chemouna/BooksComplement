@@ -20,4 +20,5 @@
 * [Notes on summations and related topics](http://www.cs.yale.edu/homes/aspnes/pinewiki/attachments/SummationNotation/summation-notation.pdf)
 * [Finding Big O of the Harmonic Series](https://stackoverflow.com/questions/25905118/finding-big-o-of-the-harmonic-series)
 * [Summation with floor in upper bound](https://cs.stackexchange.com/questions/68595/summation-with-floor-in-upper-bound)
-* [Summation By Parts](https://brilliant.org/wiki/summation-by-parts/)
+* [Summation By Parts (Brilliant Wiki)](https://brilliant.org/wiki/summation-by-parts/)
+* [Summation By Parts (Wikipedia)](https://en.wikipedia.org/wiki/Summation_by_parts)

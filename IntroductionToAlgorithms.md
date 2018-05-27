@@ -36,6 +36,9 @@
 ## Chapter 3
 * [Iterated logarithm](https://en.wikipedia.org/wiki/Iterated_logarithm)
 * [Is the function ⌈lglgn⌉! polynomially bounded?](https://math.stackexchange.com/questions/382476/is-the-function-lceil-lg-lg-n-rceil-polynomially-bounded)
+* [Example of proving an asymptotic relationship using the limit method](https://math.stackexchange.com/questions/944780/prove-asymptotic-relationship-using-the-limit-method)
+* [Using the definition of big-oh notation, show that for any k,γ>1, n^k=O(γ^n)](https://math.stackexchange.com/questions/448417/using-the-definition-of-big-oh-notation-show-that-for-any-k-gamma1-nk-o?rq=1)
+* [L'Hôpital's rule](https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule)
 
 
 ### 

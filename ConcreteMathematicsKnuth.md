@@ -1,10 +1,7 @@
 
 # Concrete Mathematics: A Foundation for Computer Science 
 
-
-## Links
-
-### For Chapter 2
+### Chapter 2
 * [Iverson bracket](https://en.wikipedia.org/wiki/Iverson_bracket)
 * [Concrete Mathematics: Sums and Recurrences question](https://math.stackexchange.com/questions/2325530/concrete-mathematics-sums-and-recurrences-question)
 * [Concrete Mathematics Solving Double Summation Clarification](https://math.stackexchange.com/questions/414916/concrete-mathematics-solving-double-summation-clarification)
@@ -22,3 +19,7 @@
 * [Summation with floor in upper bound](https://cs.stackexchange.com/questions/68595/summation-with-floor-in-upper-bound)
 * [Summation By Parts (Brilliant Wiki)](https://brilliant.org/wiki/summation-by-parts/)
 * [Summation By Parts (Wikipedia)](https://en.wikipedia.org/wiki/Summation_by_parts)
+
+### Chapter 3 
+* [THEOREM OF THE DAY: The Three-Distance Theorem](https://www.theoremoftheday.org/NumberTheory/ThreeDistance/TotDThreeDistance.pdf)
+

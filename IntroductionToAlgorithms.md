@@ -39,9 +39,7 @@
 * [Example of proving an asymptotic relationship using the limit method](https://math.stackexchange.com/questions/944780/prove-asymptotic-relationship-using-the-limit-method)
 * [Using the definition of big-oh notation, show that for any k,γ>1, n^k=O(γ^n)](https://math.stackexchange.com/questions/448417/using-the-definition-of-big-oh-notation-show-that-for-any-k-gamma1-nk-o?rq=1)
 * [L'Hôpital's rule](https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule)
-
-
-### 
+ 
 ## Chapter 5
 * [Exercise 5.1.2](https://ita.skanev.com/05/01/02.html)
 * [Creating a random number generator from a coin toss](https://stackoverflow.com/questions/13209162/creating-a-random-number-generator-from-a-coin-toss)
@@ -56,3 +54,9 @@
 * [Bernoulli trial](https://en.wikipedia.org/wiki/Bernoulli_trial)
 * [Using Indicator Variables to Calculate Expected Values](https://mikespivey.wordpress.com/2011/12/01/indicator-variables/)
 
+### Chapter 16 
+* [Solutions to Chapter 16 greedy Algorithms exercices](https://walkccc.github.io/CLRS/Chap16/16.1/)
+* [Exercice 16.1-3](http://mypathtothe4.blogspot.com/2013/03/greedy-algorithms-activity-selection.html)
+* [A Greedy algorithm for k-limited resources](https://stackoverflow.com/questions/7840410/a-greedy-algorithm-for-k-limited-resources?rq=1)
+* [Weighted Activity Selection](http://www.cs.princeton.edu/~wayne/cs423/lectures/dynamic-programming-4up.pdf)
+* [SCHEDULING JOBS WITH FIXED START AND END TIMES](https://ac.els-cdn.com/0166218X87900370/1-s2.0-0166218X87900370-main.pdf?_tid=dab67d5b-dec4-4580-939c-256275e2507d&acdnat=1529260228_0f2b60de387737c9270a146c6009198a)

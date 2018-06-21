@@ -67,3 +67,6 @@
 * [CLRS Exercice 16.2-7 Maximize Payoff by Greedy Reordering](http://robentan.blogspot.com/2011/11/maximize-payoff-by-greedy-reordering.html)
 * [CLRS 16.3-5](http://www.slader.com/textbook/9780262033848-introduction-to-algorithms-3rd-edition/436/exercises/5/)
 * [Useful resource for CLRS 16.3.5](http://www.cs.uml.edu/~wang/cs503/hw2sol.pdf)
+* [CLRS 16.3.6](http://www.slader.com/textbook/9780262033848-introduction-to-algorithms-3rd-edition/436/exercises/6/)
+* [What are matroids and in what cases are they useful ?](https://math.stackexchange.com/questions/200218/what-are-matroids-and-in-what-cases-are-they-useful)
+* [Linear independence](https://en.wikipedia.org/wiki/Linear_independence)

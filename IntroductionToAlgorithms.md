@@ -70,3 +70,7 @@
 * [CLRS 16.3.6](http://www.slader.com/textbook/9780262033848-introduction-to-algorithms-3rd-edition/436/exercises/6/)
 * [What are matroids and in what cases are they useful ?](https://math.stackexchange.com/questions/200218/what-are-matroids-and-in-what-cases-are-they-useful)
 * [Linear independence](https://en.wikipedia.org/wiki/Linear_independence)
+* [When Greedy Algorithms are Perfect: the Matroid](https://jeremykun.com/2014/08/26/when-greedy-algorithms-are-perfect-the-matroid/#comment-33711)
+* [Change-making problem](https://en.wikipedia.org/wiki/Change-making_problem)
+* [Useful for understanding problem 16.1](http://jade-cheng.com/uh/coursework/ics-311/homework/homework-06.pdf)
+* [Solution to Problem 16.1](https://walkccc.github.io/CLRS/Chap16/Problems/16-1/)
